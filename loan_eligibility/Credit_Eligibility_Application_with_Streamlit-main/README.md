@@ -42,8 +42,8 @@ If you want to run the application locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/credit_eligibility_application.git
-   cd credit_eligibility_application
+   git clone https://github.com/riyaroy-python/Loan_Eligibility.git 
+  
 
 2. Create and activate a virtual environment:
    ```bash
